@@ -42,14 +42,16 @@ repozytoriach użytkownika. Aplikacja filtruje repozytoria, aby zwrócić jedyni
     }
 
   ## Uruchamianie projektu
-  1. Klonowanie repozytorium:
+   Klonowanie repozytorium:
       git clone https://github.com/darl1ng-design/Github-Api-Project.git
-  2. Budowanie i uruchamianie aplikacji:
+      
+   Budowanie i uruchamianie aplikacji:
       Aby zbudować i uruchomić aplikację, użyj Mavena:
     - cd Github-Api-Project
     - mvn clean install
     - mvn spring-boot:run
-  3. Dostępność: Aplikacja będzie działała na lokalnym serwerze pod adresem http://localhost:8080/api/github/repos/{user}.
+    
+   Dostępność: Aplikacja będzie działała na lokalnym serwerze pod adresem http://localhost:8080/api/github/repos/{user}.
 
 
   ## Testowanie
