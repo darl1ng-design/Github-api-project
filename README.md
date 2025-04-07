@@ -47,7 +47,7 @@ repozytoriach użytkownika. Aplikacja filtruje repozytoria, aby zwrócić jedyni
       
    ## Budowanie i uruchamianie aplikacji:
   Aby zbudować i uruchomić aplikację, użyj Mavena:
-  - cd Github-Api-Project
+  - cd Github-api-project
   - mvn clean install
   - mvn spring-boot:run
     
