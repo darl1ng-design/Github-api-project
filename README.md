@@ -10,8 +10,8 @@ repozytoriach użytkownika. Aplikacja filtruje repozytoria, aby zwrócić jedyni
   Jeśli użytkownik nie istnieje lub nie ma repozytoriów, zwraca odpowiedni komunikat o błędzie w formacie JSON.
 
 ## Endpoints 
-   GET /api/github/repos/{user} \n
-   Zwraca listę repozytoriów użytkownika Githuba, które nie są forkami, wraz z informacjami o gałęziach i ostatnim commicie.
+   GET /api/github/repos/{user}
+     Zwraca listę repozytoriów użytkownika Githuba, które nie są forkami, wraz z informacjami o gałęziach i ostatnim commicie.
 
   - Odpowiedzi:
   1. 200 OK: Zwraca listę repozytoriów.
