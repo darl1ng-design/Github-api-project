@@ -41,17 +41,17 @@ repozytoriach użytkownika. Aplikacja filtruje repozytoria, aby zwrócić jedyni
       "message": "User not found."
     }
 
-  ## Uruchamianie projektu
-   # Klonowanie repozytorium:
+  # Uruchamianie projektu
+   ## Klonowanie repozytorium:
   - git clone https://github.com/darl1ng-design/Github-Api-Project.git
       
-   # Budowanie i uruchamianie aplikacji:
+   ## Budowanie i uruchamianie aplikacji:
   Aby zbudować i uruchomić aplikację, użyj Mavena:
   - cd Github-Api-Project
   - mvn clean install
   - mvn spring-boot:run
     
-   # Dostępność: Aplikacja będzie działała na lokalnym serwerze pod adresem
+   ## Dostępność: Aplikacja będzie działała na lokalnym serwerze pod adresem
    http://localhost:8080/api/github/repos/{user}
 
 
