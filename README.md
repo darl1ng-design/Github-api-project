@@ -43,7 +43,7 @@ repozytoriach użytkownika. Aplikacja filtruje repozytoria, aby zwrócić jedyni
 
   # Uruchamianie projektu
    ## Klonowanie repozytorium:
-  - git clone https://github.com/darl1ng-design/Github-Api-Project.git
+  - git clone https://github.com/darl1ng-design/Github-api-project.git
       
    ## Budowanie i uruchamianie aplikacji:
   Aby zbudować i uruchomić aplikację, użyj Mavena:
