@@ -45,7 +45,7 @@ repozytoriach użytkownika. Aplikacja filtruje repozytoria, aby zwrócić jedyni
   1. Klonowanie repozytorium:
       git clone https://github.com/darl1ng-design/Github-Api-Project.git
   2. Budowanie i uruchamianie aplikacji:
-    Aby zbudować i uruchomić aplikację, użyj Mavena:
+      Aby zbudować i uruchomić aplikację, użyj Mavena:
     - cd Github-Api-Project
     - mvn clean install
     - mvn spring-boot:run
