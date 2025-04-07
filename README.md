@@ -54,7 +54,7 @@ repozytoriach użytkownika. Aplikacja filtruje repozytoria, aby zwrócić jedyni
 
   ## Testowanie
   Aplikacja zawiera testy integracyjne, które sprawdzają działanie głównych endpointów. Aby uruchomić testy, użyj poniższej komendy:
-  mvn test
+   - mvn test
 
   ## Zależności
   - Spring Boot Starter Web: do budowy aplikacji webowej.
